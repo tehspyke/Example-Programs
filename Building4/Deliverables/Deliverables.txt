@@ -1,0 +1,10 @@
+-Design- (15%)
+Design class diagram
+System sequence diagram (non-trivial steps)
+Package diagram
+
+-Implementation- (25%)
+Source code
+User manual
+Test scripts
+Evidence of version control

@@ -1,0 +1,522 @@
+999
+801
+802
+803
+804
+805
+806
+You are in a dev-test room. There is a ladder going up, a door on the ground to the basement, and rooms in every direction.
+Test movement, dawg.
+801
+0
+999
+0
+0
+0
+0
+You are in the north room.
+Go south.
+802
+999
+0
+0
+0
+0
+0
+You are in the south room.
+Go North.
+803
+0
+0
+0
+999
+0
+0
+You are in the east room.
+Go West.
+804
+0
+0
+999
+0
+0
+0
+You are in the west room.
+Go east.
+805
+0
+0
+0
+0
+0
+999
+You are in the attic.
+Go down.
+806
+0
+0
+0
+0
+999
+0
+You are in the basement.
+Go up.
+100
+101
+0
+125
+124
+0
+0
+You are in the advising hub. The room has a fantastic fish tank and some loud printers. The room also has a desk within the middle of it, along with a long couch against the wall. The hallway lies to the north, and advising offices to the east and the west.
+Check out the adjacent offices for items and bosses then return to the hallway.
+124
+0
+0
+100
+0
+0
+0
+You are in an advisor's office. It reeks of dusty papers and rusty staplers. There is a door way that leads back to the advising hub.
+Return to the advising hub.
+125
+0
+0
+0
+100
+0
+0
+You are in an advisors office. It's freaking disgusting and needs cleaning. You better get out of here... my God.
+Return to the advising hub.
+101
+102
+100
+123
+122
+0
+0
+You are in the hallway. This place is so boring all you can hear is the sound of the air conditioner slowly breaking. You have offices to your east and west and the hallway is north. The advising hub is to the south.
+Keep exploring!
+123
+0
+0
+0
+101
+0
+0
+You are in the computer lab. The silent hum of the computers is making your ears bleed! There is an exit to the east.
+Return to hallway.
+122
+0
+0
+101
+0
+0
+0
+You are in an office. It smells like dead cats and fried dogs. what's wrong with these people? There is an exit to the west.
+Return to the hallway.
+102
+103
+101
+119
+120
+0
+0
+You are in the hallway. The sound of your shoes slapping against the floor is all you can hear. There is an office to the east and stairs to the west. There are hallways to the north and south.
+Check offices for items or continue down the hallway.
+120
+0
+0
+102
+0
+0
+0
+You are in an office looks like somebody smashed a computer; whats going on?
+Gather items if you can, exit to the east.
+119
+0
+0
+121
+102
+219
+300
+You are inside Building 4 at the entrance on the first floor. There are tables strewn about, with trash and unfinished lunches on them. There is a staircase going up to the second floor above and it appears that the Outtakes store has done some remodeling - it's now underground in a basement. There is a circular area to the east and a hallway to the west.
+Type 'help' for a list of commands. The objective of the game is to look for items to equip that will increase your combat power, and defeat other students and teachers in deadly matches of rock-paper-scissors. You can buy and sell items by going down into Outtakes. You should explore the first floor before going up to the second floor. To the east there is an "arena" of sorts; enemies will spawn infinitely there.
+121
+0
+0
+0
+119
+0
+0
+You are in a circular room with classrooms and a bathroom branching off of it. The classrooms seem to be in-session right now and the doors are locked so that students may only exit, not enter.
+This area inifintely spawns students with full bladders heading to the bathroom.
+103
+104
+102
+0
+118
+0
+0
+You are in the hallway. Looks like someone just let out a snot rocket on the floor. You have rooms everywhere but east.
+Pick a room.
+118
+0
+0
+103
+0
+0
+0
+You are in an office. There is a hallway to the east.
+Pick up items or exit to he hallway.
+115
+0
+0
+0
+104
+0
+0
+You are in a classroom. One of the computers has gone critical and is repeating the word "Penis". You have an exit to your west.
+Gather items if possible.
+104
+105
+103
+115
+116
+0
+0
+You are in the hallway. you can go north or south down the hallway. you also have an office to your west and classroom to the east.
+Look for items in all rooms
+116
+0
+0
+104
+0
+0
+0
+You are in an office. The hallway is to the east.
+Gather items.
+105
+106
+104
+113
+114
+0
+0
+You are in the hallway. Someone just peed on the wall and they were really dehydrated. They better get some gatorade.
+Find items in offices and classrooms.
+114
+0
+0
+105
+0
+0
+0
+You are in an office. You have an exit to your east
+Gather items.
+113
+0
+0
+0
+105
+0
+0
+You are in a classroom. The room smells pretty funky, kind of like a skunk.
+Find items if you can.
+106
+107
+105
+0
+112
+0
+0
+You are in the hallway. It looks like someone spilt some cookies. You have an office to your west and the hallway continues north and south.
+Go inside offices or rooms to gather items.
+112
+0
+0
+106
+0
+0
+0
+You are in an office. You have an exit to your east.
+Make sure to grab items if necessary.
+107
+108
+106
+111
+110
+0
+0
+You are in the hallway. Someone just smells really bad idk what it is. You have the rest of the hallway to the north and south and office's to the east and west.
+Go to rooms to gather items.
+110
+0
+0
+107
+0
+0
+0
+You are in an office.
+You have an exit to the east.
+111
+0
+0
+0
+107
+0
+0
+You are in an office. What a great place to be… the hallway is to your west.
+Gather items if possible.
+108
+0
+107
+109
+0
+0
+0
+You are at the end of the hallway on the first floor and can only go south. There is a stairwell to the east.
+Go east to enter a stairwell to go up to the 2nd floor or continue exploring this one.
+109
+0
+0
+0
+108
+209
+0
+You are in the stair well on the first floor. The exit to the outside is locked. You can return to the hallway to your west, or venture up to the second floor.
+Go up the stairs to find other items and enemies.
+200
+201
+0
+225
+224
+0
+0
+You are in the advising hub. The room has a fantastic fish tank and some loud printers. The room also has a desk within the middle of it, along with a long couch against the wall. The hallway lies to the north, and advising offices to the east and the west.
+Check out the adjacent offices for items and bosses then return to the hallway.
+224
+0
+0
+200
+0
+0
+0
+You are in an advisor's office. It reeks of dusty papers and rusty staplers. There is a door way that leads back to the advising hub.
+Return to the advising hub.
+225
+0
+0
+0
+200
+0
+0
+You are in an advisors office. Its freaking disgusting and needs cleaning. You better get out of here… my God.
+Return to the advising hub.
+201
+202
+200
+223
+222
+0
+0
+You are in the hallway. This place is so boring all you can hear is the sound of the air conditioner slowly breaking. You have offices to your east and west and the hallway is north. The advising hub is also behind you.
+You can go North, South, East or West.
+223
+0
+0
+0
+201
+0
+0
+You are in the computer lab! The silent hum of the computers is making your ears bleed! There is an exit to the east.
+Return to hallway.
+222
+0
+0
+201
+0
+0
+0
+You are in an office. It smells like dead cats and fried dogs; whats wrong with these people. There is an exit to the west.
+Return to the hallway.
+202
+203
+201
+219
+220
+0
+0
+You are in the hallway the sound of your shoes slapping against the floor is all you can hear. There is an office to the east and stairs to the west. There are hallways to the north and south.
+Check offices for items or continue down the hallway.
+220
+0
+0
+202
+0
+0
+0
+You are in an office looks like somebody smashed a computer; whats going on?
+Gather items if you can, exit to the east.
+219
+0
+0
+221
+202
+0
+119
+You're on the second floor entrance to the building. The exits to the building seem to be locked from the outside. There are comfy chairs around the area and a broken elevator in the corner of the room. Yellow police tape is blocking the stairwell going up. There is a circular area to your east and a hallway to the west.
+Explore this floor. The final boss is somewhere up here...
+221
+0
+0
+0
+219
+0
+0
+You are in a circular room with classrooms and a bathroom branching off of it. The classrooms seem to be in-session right now and the doors are locked so that students may only exit, not enter.
+This area inifintely spawns students with full bladders heading to the bathroom.
+203
+204
+202
+0
+218
+0
+0
+You are in the hallway. Looks like someone just let out a snot rocket on the floor. You have rooms everywhere but east.
+Pick a room.
+218
+0
+0
+203
+0
+0
+0
+You are in an office.The hallway is to the east
+Pick up items or exit to he hallway.
+215
+0
+0
+0
+204
+0
+0
+You are in a classroom. One of the computers has gone critical and is repeating the word "Penis". You have an exit to your west.
+Gather items if possible.
+204
+205
+203
+215
+216
+0
+0
+You are in the hallway. I am so tired of writing these descriptions; you can go north or south down the hallway. you also have an office to your west and classroom to the east.
+Look for items in all rooms
+216
+0
+0
+204
+0
+0
+0
+You are in an office. The hallway is to the east.
+Gather items.
+205
+206
+204
+213
+214
+0
+0
+You are in the hallway. Someone just peed on the wall and they were really dehydrated. They better get some gatorade.
+Find items in offices and classrooms.
+214
+0
+0
+205
+0
+0
+0
+You are in an office. You have an exit to your east
+Gather items.
+213
+0
+0
+0
+205
+0
+0
+You are in a classroom. The room smells pretty funky, kind of like a skunk.
+Find items if you can.
+206
+207
+205
+0
+212
+0
+0
+You are in the hallway. It looks like someone spilt some cookies…yum. You have an office to your west and the hallway continues north and south.
+Go inside offices or rooms to gather items.
+212
+0
+0
+206
+0
+0
+0
+You are in an office. You have an exit to your east.
+Make sure to grab items if necessary.
+207
+208
+206
+211
+210
+0
+0
+You are in the hallway. Someone just smells really bad idk what it is. You have the rest of the hallway to the north and south and office's to the east and west.
+Go to rooms to gather items.
+210
+0
+0
+207
+0
+0
+0
+You are in an office.
+You have an exit to the east.
+211
+0
+0
+0
+207
+0
+0
+You are in an office. What a great place to be... the hallway is to your west.
+Gather items if possible.
+208
+0
+207
+209
+0
+0
+0
+You are at the end of the hallway on the second floor and can only go south. There is a stairwell to the east.
+Go east to enter a stairwell to go down to the 1st floor or continue exploring this one.
+209
+0
+0
+0
+208
+0
+109
+You are in the stair well on the second floor. There is yellow police tape blocking you from going further up. There is a hallway to your west.
+Explore this floor or go down to the first floor.
+300
+0
+0
+0
+0
+119
+0
+You descend into a dank cellar that is now the home of the Outtakes store. There is a shopkeep behind the counter who greets you when you enter. You can go up some steps to return to the first floor entrance.
+You can buy and sell items here when implemented.

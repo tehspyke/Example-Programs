@@ -1,0 +1,3 @@
+COMBAT
+SHOPPING
+Add Javadoc comments

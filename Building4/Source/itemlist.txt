@@ -1,0 +1,40 @@
+100
+10
+5
+Used pencil
+A short pencil stub barely long enough to write with.
+101
+20
+5
+Brand-new Sharpie
+A never-been-used Sharpie permanent marker.
+102
+30
+5
+Object-Oriented Programming textbook
+A textbook that teaches Java. The cover has dinosaurs on it for some reason.
+103
+15
+5
+Cup-O-Noodles
+A chicken-flavored Ramen Cup-O-Noodles.
+104
+25
+5
+UWF t-shirt
+A UWF t-shirt that reads "ARGOS".
+105
+18
+5
+Monster Energy Drink
+An Ultra-black flavored Monster. Sugar Free!
+106
+69
+5
+Doritos
+Cool Ranch Doritos. Pairs well with some Mountain Dew (TM).
+107
+1337
+5
+Mountain Dew
+Pairs well with some Doritos.

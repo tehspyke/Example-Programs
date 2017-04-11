@@ -1,0 +1,39 @@
+﻿Format: Put every value on a new line. Keep all strings on the same line. Append to the end of the text file with no newlines breaking up different NPCs/Items. Do NOT reuse ID numbers.
+
+Items:
+<Item ID> (Make this unique and 3 digits)
+<Item level> (Higher this is, the more powerful the item. Set to whatever until we implement combat.)
+<Item value> (Currency value, higher is worth more. Set to whatever until we implement shopping.)
+<Item name> (Name of the item)
+<Item description> (Short description of the item)
+
+E.g.:
+100
+10
+5
+Used pencil
+A short pencil stub barely long enough to write with
+
+NPCs:
+<NPC ID> (Make this unique and 3 digits)
+<Location ID> (This is unused. Set to 999)
+<Attack power> (The higher this is, the more powerful the NPC. Set to whatver until we implement combat.)
+<Health> (Higher -> more hp)
+<Equipped item ID> (The item that the NPC has equipped)
+<Inventory item ID> (The item in the NPC's inventory that will drop on defeat)
+<Name> (NPC's name)
+<Quote 1> (Stuff the NPC will say during combat)
+<Quote 2> (Stuff the NPC will say during combat)
+<Quote 3> (Stuff the NPC will say during combat)
+
+E.g.:
+100
+806
+10
+50
+100
+100
+Brian Eddy
+You're a waste of time and effort!
+Hey, buddy...
+Bow down to your SCRUM master!
